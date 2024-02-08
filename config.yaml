@@ -1,7 +1,7 @@
 # Text shown on the index page.
 index_title: Cookbook
 index_description:
-  testing
+  Jock and Kayla's Cookbook
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
