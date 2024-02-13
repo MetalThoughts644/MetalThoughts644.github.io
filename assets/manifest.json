@@ -7,4 +7,6 @@
       "type": "image/png"
     },
   ],
+  "start-url": "https://metalthoughts644.github.io/",
+  "display": "browser"
 }
