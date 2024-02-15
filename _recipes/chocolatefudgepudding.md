@@ -21,7 +21,7 @@ umami:
 * `1 cup` S.R. flour
 * `1/2 cup` sugar
 * `1/2 tsp` salt
-* `2 desert spoons` cocoa
+* `1 tbsp` cocoa
 
 >Mix together the flour, sugar, salt & cocoa
 
@@ -35,7 +35,7 @@ umami:
 ---
 
 * `1 cup` sugar
-* `2 desert spoons` cocoa
+* `1 tbsp` cocoa
 * `1 1/2` cups boiling water
 
 >Separately combine sugar & cocoa then sprinkle over mixture. Gently pour the boiling water over the top. Bake in a moderate oven.
