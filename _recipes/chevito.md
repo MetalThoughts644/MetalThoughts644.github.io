@@ -25,8 +25,6 @@ umami:
 ---
 
 * `4` thin slices steak
-* Coarse salt, to taste
-* Freshly ground black pepper, to taste
 
 >Sprinkle steaks with coarse salt and black pepper. Use a mallet to pound the steaks even thinner.
 
