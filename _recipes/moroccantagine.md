@@ -7,7 +7,7 @@ image:
 size:
 time:
 favourite:
-meat: y
+meat:
 vegan: y
 spicy:
 salty:
