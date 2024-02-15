@@ -3,7 +3,7 @@ title: Ajitsuke Tamago
 original_title: Ramen Eggs
 category: Side
 description: Japanese
-image:
+image: ajitsuke.png
 size:
 time:
 favourite:

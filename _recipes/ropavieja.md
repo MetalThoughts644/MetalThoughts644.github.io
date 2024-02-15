@@ -2,7 +2,7 @@
 title: Ropa Vieja
 original_title:
 category: Main
-description: Cuban stewed bee. Note- Original recipe says to cook at 120C. Change/update this as necessary.
+description: Cuban stewed beef. Note- Original recipe says to cook at 120C. Change/update this as necessary.
 image:
 size:
 time:
@@ -17,21 +17,6 @@ bitter:
 umami:
 
 ---
-
-<!---
-Here down is where you want steps/ingredients. An example of a step is:
----
-
-* `1/4 cup` Soy Sauce
-* `1/4 cup` Mirin
-* `1/4 cup` Sake
-* `1 tsp` Sugar
-
->In a small saucepan, combine all the ingredients for the marinade
-
----
-Note the triple dashes, paragraph spaces, back dashes and other formatting.
--->
 
 * `1.4kg` chuck roast, brisket, or flank steak
 * `2 tbsp` (or more if using flank steak) extra-virgin olive oil

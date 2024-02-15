@@ -3,7 +3,7 @@ title: Poutine
 original_title:
 category: Side
 description: Jock - 8/10, Kayla - 5/10
-image:
+image: poutine.png
 size:
 time:
 favourite:

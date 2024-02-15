@@ -3,7 +3,7 @@ title: Paskha
 original_title:
 category: Dessert
 description: Gugs' recipe for Jock's birthday cake
-image:
+image: paskha.png
 size:
 time:
 favourite:
