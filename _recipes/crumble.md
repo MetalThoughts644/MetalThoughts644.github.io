@@ -20,7 +20,7 @@ umami:
 
 * `100g` butter
 * `75g` plain flour
-* `25g` dedicated coconut
+* `25g` desiccated coconut
 * `50g` Demerara sugar
 * `25g` flaked almonds
 
