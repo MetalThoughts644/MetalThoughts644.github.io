@@ -2,7 +2,8 @@
 title: Golden Syrup Dumplings
 original_title:
 category: Pudding
-description: Not tested for gluten free
+description:
+note: Not tested for gluten free
 image:
 size:
 time:

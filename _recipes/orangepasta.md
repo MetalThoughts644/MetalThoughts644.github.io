@@ -2,7 +2,8 @@
 title: Orange and Bacon Pasta
 original_title:
 category: Main
-description: Great way to use up left over orange juice. Note- have not made with basil before
+description: Great way to use up left over orange juice. 
+note: Have not made with basil before
 image:
 size:
 time:

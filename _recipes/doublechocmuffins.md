@@ -2,7 +2,8 @@
 title: Double Chocolate Muffins
 original_title:
 category: Cake
-description: Not yet tested for gluten free
+description: 
+note: Not tested for gluten free
 image:
 size:
 time:

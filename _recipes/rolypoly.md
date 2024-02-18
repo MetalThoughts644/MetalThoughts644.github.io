@@ -2,7 +2,8 @@
 title: Grandma's Roly Poly
 original_title:
 category: Pudding
-description: Not tested with gluten free
+description: 
+note: Not tested for gluten free
 image:
 size:
 time:

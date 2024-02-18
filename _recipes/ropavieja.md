@@ -2,7 +2,8 @@
 title: Ropa Vieja
 original_title:
 category: Main
-description: Cuban stewed beef. Note- Original recipe says to cook at 120C. Change/update this as necessary.
+description: Cuban stewed beef. 
+note: Original recipe says to cook at 120C. Change/update this as necessary.
 image:
 size:
 time:
