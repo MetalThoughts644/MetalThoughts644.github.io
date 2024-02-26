@@ -20,7 +20,6 @@ umami:
 ---
 
 * `500g` pork fillet
-* `40 ml` dry white wine
 
 >Season fillet with salt and pepper. Heat 2 tbsp oil in a pan on high heat and fry fillet until golden brown on all sides.
 
@@ -33,6 +32,7 @@ umami:
 
 ---
 
+* `40 ml` dry white wine
 * `170 ml` vegetable stock
 * `260g` rhubarb
 * `1` red onion
