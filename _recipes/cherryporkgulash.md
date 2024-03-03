@@ -3,7 +3,7 @@ title: Kirschgulasch vom Schwein
 original_title: Cherry Pork Gulash
 category: Main
 description:
-note: I think I may have used 1/2 the honey. not sure
+note: Try with bay leaf?
 image:
 size:
 time:
@@ -21,9 +21,10 @@ umami:
 
 * `500g` Pork goulash
 * `1 tbsp` Butter
-* `2` onions
+* `1` onion, large
+* `3` cloves garlic
 
->Brown pork in butter with salt. Remove pork from pan and fry roughly diced onion until translucent.
+>Brown pork in butter with salt. Remove pork from pan and fry roughly diced onion and garlic until translucent.
 
 ---
 
