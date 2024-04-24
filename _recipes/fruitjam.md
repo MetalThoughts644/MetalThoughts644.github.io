@@ -2,7 +2,8 @@
 title: Fruit Jam
 original_title:
 category: Condiment
-description: Jam made with any type of fruit. Berries require some apple as well.
+description: Jam made with any type of fruit. 
+note: Berries require some apple as well, add depending on desired consistency. 
 image:
 size:
 time:
