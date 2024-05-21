@@ -20,16 +20,16 @@ umami:
 
 * `1 cup` almond flour
 * `1 cup` tapioca flour
-* `1 cup` of flour
-* `1/4` cup of olive oil
+* `1 cup` flour
+* `1/4 cup` olive oil
 
 >Mix flours and oil in a bowl
 
 ---
 
 * `1/2 cup` of warm water
-* `1 tbs` sugar
-* `1 tbs` yeast
+* `1 tbsp` sugar
+* `1 tbsp` yeast
 
 >In another bowl mix water, sugar, yeast. Leave to prove
 
