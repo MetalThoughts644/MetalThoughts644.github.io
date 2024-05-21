@@ -19,19 +19,19 @@ umami:
 
 ---
 
-* '2 cups' plain flour
-* '1/2 tbsp' xanthan gum
-* 'pinch' salt
-* '1 tsp' baking powder
+* `2 cups` plain flour
+* `1/2 tbsp` xanthan gum
+* `pinch` salt
+* `1 tsp` baking powder
 
 >In a large bowl mix together all dry ingrediants
 
 ---
 
-* '3/4 cup' lukewarm water
-* '9g' active dry yeast
-* '1 tsp' sugar
-* '1 tbsp' olive oil
+* `3/4 cup` lukewarm water
+* `9g` active dry yeast
+* `1 tsp` sugar
+* `1 tbsp` olive oil
 
 >In a small bowl mix together all remaining ingrediants
 
