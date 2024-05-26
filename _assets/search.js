@@ -42,7 +42,6 @@ function search(query) {
         if (matchesEvery(e["title"], query)) score += 20;
         if (matchesEvery(e["original_title"], query)) score += 10;
         if (matchesEvery(e["category"], query)) score += 5;
-        if (matchesEvery(e["author"], query)) score += 5;
         if (matchesEvery(e["description"], query)) score += 2;
         if (matchesEvery(e["htmlfile"], query)) score += 1;
 
@@ -51,7 +50,7 @@ function search(query) {
         if (matchesStart(e["original_title"], query)) score += 5;
 
         // boost favorites a little
-        if (score > 0 && e["favorite"]) score += 2;
+        if (score > 0 && e["favourite"]) score += 2;
 
         results.push({score: score, e: e});
     });
@@ -82,15 +81,11 @@ function showResults(results) {
         return `<a href="${e.htmlfile}" class="searchresult" id="${i++}">`
             + `<h3>`
             + `<i class="icons">`
-            + (e.favorite ? `<img src="assets/tabler-icons/tabler-icon-star.svg"> ` : ``)
+            + (e.favourite ? `<img src="assets/tabler-icons/tabler-icon-star.svg"> ` : ``)
             + (e.meat ? `<img src="assets/tabler-icons/tabler-icon-meat.svg"> ` : ``)
             + (e.vegan ? `<img src="assets/tabler-icons/tabler-icon-leaf.svg"> ` : ``)
             + (e.spicy ? `<img src="assets/tabler-icons/tabler-icon-pepper.svg"> ` : ``)
             + (e.sweet ? `<img src="assets/tabler-icons/tabler-icon-candy.svg"> ` : ``)
-            + (e.salty ? `<img src="assets/tabler-icons/tabler-icon-salt.svg"> ` : ``)
-            + (e.sour ? `<img src="assets/tabler-icons/tabler-icon-lemon.svg"> ` : ``)
-            + (e.bitter ? `<img src="assets/tabler-icons/tabler-icon-coffee.svg"> ` : ``)
-            + (e.umami ? `<img src="assets/tabler-icons/tabler-icon-mushroom.svg"> ` : ``)
             + `</i>`
             + `<span>${e.title}</span> `
             + (e.original_title ? `<em>${e.original_title}</em>` : ``)
