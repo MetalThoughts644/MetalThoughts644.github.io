@@ -18,21 +18,6 @@ umami:
 
 ---
 
-<!---
-Here down is where you want steps/ingredients. An example of a step is:
----
-
-* `1/4 cup` Soy Sauce
-* `1/4 cup` Mirin
-* `1/4 cup` Sake
-* `1 tsp` Sugar
-
->In a small saucepan, combine all the ingredients for the marinade
-
----
-Note the triple dashes, paragraph spaces, back dashes and other formatting.
--->
-
 * `2 tbsp` olive olive
 * `1` red capsicum, diced
 * `1` onion, diced
@@ -58,6 +43,6 @@ Note the triple dashes, paragraph spaces, back dashes and other formatting.
 
 ---
 
-* `1/3 cup` lizano salsa
+* `1/3 cup` [lizano salsa](https://metalthoughts644.github.io/lizanosalsa.html)
 
 >Pour salsa over rice, cook 5-10 mins or until rice absorbs sauce

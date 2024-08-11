@@ -2,7 +2,7 @@
 title: Lizano Salsa
 original_title:
 category: Condiment
-description: Costa Rican salsa, used in Gallo Pinto
+description: Costa Rican salsa
 image:
 size:
 time:
