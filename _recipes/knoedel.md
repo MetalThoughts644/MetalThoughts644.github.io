@@ -21,7 +21,7 @@ umami:
 
 * `500g` potatoes
 
-Peel and chop the potatoes. Boil and mash.
+>Peel and chop the potatoes. Boil and mash.
 
 ---
 
@@ -29,8 +29,8 @@ Peel and chop the potatoes. Boil and mash.
 * `1` egg yolk
 * `1` tbsp butter
 
-Mix in remaining ingredients and salt. Shape into dumplings.
+>Mix in remaining ingredients and salt. Shape into dumplings.
 
 ---
 
-Place in simmering water and cook for 15 mins.
+>Place in simmering water and cook for 15 mins.
