@@ -1,7 +1,7 @@
 ---
 title: Vietnamese Beef Brisket
 original_title:
-category: Mains
+category: Main - Beef
 description:
 note:
 image:

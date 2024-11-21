@@ -1,7 +1,7 @@
 ---
 title: Tavë Kosi
 original_title:
-category: Main
+category: Main - Lamb
 description: Albanian national dish. Casserole made with lamb, yoghurt and rice.
 image:
 size:

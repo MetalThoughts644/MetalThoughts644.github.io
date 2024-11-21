@@ -1,7 +1,7 @@
 ---
 title: Gallo Pinto
 original_title: Costa Rican Rice and Beans
-category: Main
+category: Main - Veggie
 description:
 image:
 size:

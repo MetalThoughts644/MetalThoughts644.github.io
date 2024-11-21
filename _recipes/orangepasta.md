@@ -1,7 +1,7 @@
 ---
 title: Orange and Bacon Pasta
 original_title:
-category: Main
+category: Main - Veggie
 description: Great way to use up left over orange juice. 
 note: Have not made with basil before
 image:

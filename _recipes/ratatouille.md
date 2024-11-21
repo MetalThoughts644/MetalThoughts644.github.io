@@ -1,7 +1,7 @@
 ---
 title: Ratatouille
 original_title:
-category: Main
+category: Main - Veggie
 description:
 image:
 size:

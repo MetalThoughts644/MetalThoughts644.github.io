@@ -1,7 +1,7 @@
 ---
 title: Greek Lamb and Macaroni Bake
 original_title:
-category: Main
+category: Main - Lamb
 description:
 image:
 size:

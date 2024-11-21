@@ -1,7 +1,7 @@
 ---
 title: Devilled Possum
 original_title:
-category: Main
+category: Main - Chicken
 description: Mum's recipe. Marinaded chicken drumsticks. 
 image:
 size:

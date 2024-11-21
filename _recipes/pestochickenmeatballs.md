@@ -1,7 +1,7 @@
 ---
 title: Pesto Chicken Meatballs
 original_title:
-category: Main
+category: Main - Chicken
 description:
 note: Best served with pesto pasta
 image:

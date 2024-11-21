@@ -1,7 +1,7 @@
 ---
 title: Honey beef with rice
 original_title:
-category: Main
+category: Main - Beef
 description:
 note:
 image:

@@ -1,7 +1,7 @@
 ---
 title: Char Siu
 original_title: Chinese BBQ Pork Roast
-category: Main
+category: Main - Pork
 description:
 note: Choose a piece of pork with good fat on it. If using medium dry sherry, reduce the sugar.
 image:

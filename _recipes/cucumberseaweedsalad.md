@@ -1,7 +1,7 @@
 ---
 title: Cucumber and Seaweed Sunomono
 original_title:
-category: Sides
+category: Side
 description: Jock's favourite cucumber salad
 note:
 image:

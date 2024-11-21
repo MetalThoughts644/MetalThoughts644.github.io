@@ -1,7 +1,7 @@
 ---
 title: Poulet a la Moambe
 original_title:
-category: Main
+category: Main - Chicken
 description: DR of the Congo national dish. Jock - 8/10, kayla - texture no good
 image:
 size:

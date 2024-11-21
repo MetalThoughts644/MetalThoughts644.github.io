@@ -1,7 +1,7 @@
 ---
 title: Cinnamon Glazed Baked Pork Chops
 original_title:
-category: Main
+category: Main - Pork
 description:
 image:
 size:

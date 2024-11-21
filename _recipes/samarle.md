@@ -1,7 +1,7 @@
 ---
 title: Samarle
 original_title: Romanian Cabbage Rolls
-category: Main
+category: Main - Pork
 description: Cabbage rolls stuffed with pork and rice sandwiched with bacon and cooked in tomato juice.
 image:
 size:

@@ -1,7 +1,7 @@
 ---
 title: Butter Chicken
 original_title:
-category: Main
+category: Main - Chicken
 description: Indian Curry
 image:
 size:

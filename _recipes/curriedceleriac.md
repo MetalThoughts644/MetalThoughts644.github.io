@@ -1,7 +1,7 @@
 ---
 title: Curried Celeriac
 original_title:
-category: Main
+category: Main - Veggie
 description:
 image:
 size:

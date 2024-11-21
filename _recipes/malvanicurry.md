@@ -1,7 +1,7 @@
 ---
 title: Malvani Chicken Curry
 original_title:
-category: Main
+category: Main - Chicken
 description:
 note:
 image:

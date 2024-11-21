@@ -1,7 +1,7 @@
 ---
 title: Dan Dan Noodles
 original_title:
-category:
+category: Main - Pork
 description: Szechuan noodles with spicy sesame chilli oil sauce and pork
 note:
 image:

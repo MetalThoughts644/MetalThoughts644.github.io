@@ -1,7 +1,7 @@
 ---
 title: Kirschgulasch vom Schwein
 original_title: Cherry Pork Gulash
-category: Main
+category: Main - Pork
 description:
 note: Try with bay leaf?
 image:

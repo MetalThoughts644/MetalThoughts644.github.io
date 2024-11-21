@@ -1,7 +1,7 @@
 ---
 title: Korean BBQ Pork Ribs
 original_title:
-category: Main
+category: Main - Pork
 description:
 note: To remove the membrane, insert a paring knife under the membrane to carefully loosen it, then slowly pull it by hand away from the bones.
 image:

@@ -1,7 +1,7 @@
 ---
 title: Koresh-e Beh
 original_title: Persian Quince Lamb Stew
-category: Main
+category: Main - Lamb
 description:
 note:
 image:

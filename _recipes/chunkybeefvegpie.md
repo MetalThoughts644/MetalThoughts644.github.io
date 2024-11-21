@@ -1,7 +1,7 @@
 ---
 title: Chunky Beef and Vegetable Pie
 original_title:
-category: Main
+category: Main - Beef
 description:
 note: add homemade tomato sauce and worcesterstire sauce
 image:

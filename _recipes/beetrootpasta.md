@@ -1,7 +1,7 @@
 ---
 title: Beetroot and Feta Pasta
 original_title:
-category: Main
+category: Main - Veggie
 description: Use for left over creme frache
 image:
 size:

@@ -1,7 +1,7 @@
 ---
 title: Schweinefilet mit Rhabarber-Gemüse
 original_title: Pork Fillet with Rhubarb
-category: Main
+category: Main - Pork
 description:
 note: Can use rhubarb compotte and less sugar instead of fresh. Recipe from Aunty Karen, have not cooked so may require adjustments as I modified measurements slightly when copying. There is also a note on the recipe that apple can be added.
 image:

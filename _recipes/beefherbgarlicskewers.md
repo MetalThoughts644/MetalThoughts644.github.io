@@ -1,7 +1,7 @@
 ---
 title: Beef, Herb and Garlic Skewers
 original_title:
-category: Main
+category: Main - Beef
 description:
 note:
 image:

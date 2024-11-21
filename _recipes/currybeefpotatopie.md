@@ -1,7 +1,7 @@
 ---
 title: Curry Beef Pie with Crushed Potato Topping
 original_title:
-category: Main
+category: Main - Beef
 description:
 note:
 image:

@@ -1,7 +1,7 @@
 ---
 title: Rad Na Thai Noodles
 original_title:
-category: Main
+category: Main - Veggie
 description: Jocks favourite noodle salad dish
 image:
 size:

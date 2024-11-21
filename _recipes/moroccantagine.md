@@ -1,7 +1,7 @@
 ---
 title: Moroccan tagine
 original_title:
-category: Main
+category: Main - Veggie
 description:
 image:
 size:

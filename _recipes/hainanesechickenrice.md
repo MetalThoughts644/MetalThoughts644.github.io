@@ -1,7 +1,7 @@
 ---
 title: Hainanese Chicken Rice
 original_title:
-category: Main
+category: Main - Chicken
 description: Singaporean national dish
 image:
 size:

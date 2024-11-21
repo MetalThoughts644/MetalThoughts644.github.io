@@ -1,7 +1,7 @@
 ---
 title: Dad's Marinated Lamb Chops
 original_title:
-category: Main
+category: Main - Lamb
 description:
 note:
 image:

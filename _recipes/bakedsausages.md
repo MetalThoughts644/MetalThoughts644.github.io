@@ -1,7 +1,7 @@
 ---
 title: Baked Sausages
 original_title:
-category: Main
+category: Main - Beef
 description:
 note:
 image:

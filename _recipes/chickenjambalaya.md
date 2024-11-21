@@ -1,7 +1,7 @@
 ---
 title: Chicken & Chorizo Jambalaya
 original_title:
-category: Main
+category: Main - Chicken
 description:
 note:
 image:
